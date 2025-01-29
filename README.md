@@ -1,5 +1,5 @@
 My task was to choose one of an open-source datasets of publicly available credit/loan dataset. I have selected German Credit Data (UCI Machine Learning Repository).
-Then downloaded "statlog+german+credit+data.zip" folder which contained german.data-numeric, Index and german.data text files.
+Then I downloaded "statlog+german+credit+data.zip" folder which contained german.data-numeric, Index and german.data text files.
 German word document explained instructions of how to read my attribution columns.
 Afterwards I have imported the text data into excel using "Data tab" on the ribbon.
 Navigate to "Get & Transform Data", click drop-down arrow, select "From File", select "From Text/CSV", follow instructions to select name of the data saved in folder as "All Files".
